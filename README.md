@@ -50,7 +50,3 @@ Some ideas for expanding this project:
 ---
 
 This notebook serves as a starting point for anyone looking to explore missing data in a dataset. By applying these visualizations, you can gain valuable insights into the structure of your data and make informed decisions about how to handle missing values before further analysis.
-
----
-
-Let me know if you'd like to add any additional sections or adjust the content!
